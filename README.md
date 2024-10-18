@@ -5,5 +5,3 @@
 - 📫 How to reach me: juan-pablo01@hotmail.com
 ## Web Portfolio
 - https://juanpaorozco63.github.io/
-## Some Projects
-
