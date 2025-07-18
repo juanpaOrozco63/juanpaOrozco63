@@ -49,13 +49,14 @@
 
 ## 🌐 Links
 
-- 🔗 [My Website](https://juanpaorozco63.github.io/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/juan-pablo-orozco-93927b174/)  
+- 🔗 <a href="https://juanpaorozco63.github.io/" target="_blank">My Website</a>  
+- 💼 <a href="https://www.linkedin.com/in/juan-pablo-orozco-93927b174/" target="_blank">LinkedIn</a>
 
 ---
 
 ## 📬 Contact
 
-- 📧 [juan-pablo01@hotmail.com](mailto:juan-pablo01@hotmail.com)
+- 📧 <a href="mailto:juan-pablo01@hotmail.com" target="_blank">juan-pablo01@hotmail.com</a>
 
 ---
+
