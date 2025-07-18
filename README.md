@@ -9,6 +9,11 @@
 
 ---
 
+
+## 🤖 Web Developer
+
+![Juan Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanpaorozco63&show_icons=true&theme=tokyonight&count_private=true)
+
 ## 🚀 Tech Stack
 
 <div align="left">
@@ -49,14 +54,16 @@
 
 ## 🌐 Links
 
-- 🔗 <a href="https://juanpaorozco63.github.io/" target="_blank">My Website</a>  
-- 💼 <a href="https://www.linkedin.com/in/juan-pablo-orozco-93927b174/" target="_blank">LinkedIn</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-orozco-93927b174/)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://juanpaorozco63.github.io/)
+
 
 ---
 
 ## 📬 Contact
 
-- 📧 <a href="mailto:juan-pablo01@hotmail.com" target="_blank">juan-pablo01@hotmail.com</a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan-pablo01@hotmail.com)
+
 
 ---
 
