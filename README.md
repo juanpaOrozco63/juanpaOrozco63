@@ -1,51 +1,61 @@
-# Hi, I'm Juan Pablo Orozco 👋
-## ⚡ I'm a Software Engineering (Cali, Colombia)
-- 🔭 I’m currently working on Software Developer.
-- 📫 How to reach me: juan-pablo01@hotmail.com
-## Technologies:
+# 👋 Hi, I'm Juan Pablo Orozco
+
+## ⚡ Software Engineer from Cali, Colombia
+
+- 👨‍💻 Currently working as a Software Developer at Sistcredito.
+- 🤝 I enjoy teamwork and collaborating on meaningful projects.
+- 📈 Passionate about personal growth, productivity, and building cool stuff.
+- 🧠 Always learning something new — from frameworks to systems design.
+
+---
+
+## 🚀 Tech Stack
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="Markdown" />
 </div>
 
-## Links:
+---
 
-[![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://juanpaorozco63.github.io/)
-[![Twitter](https://img.shields.io/badge/Twitter-@fta__capa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/fta_capa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AlvaroCapaceta-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ingcapadev/)
-[![Blog](https://img.shields.io/badge/Blog-INGCapaDev-F89901?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)](https://blog.ingcapadev.com)
+## 🌐 Links
 
-## Contact:
+- 🔗 [My Website](https://juanpaorozco63.github.io/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-pablo-orozco-93927b174/)  
 
-[![Email](https://img.shields.io/badge/juan-pablo01@hotmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juan-pablo01@hotmail.com)
+---
 
-## Web Portfolio
-- https://juanpaorozco63.github.io/
+## 📬 Contact
+
+- 📧 [juan-pablo01@hotmail.com](mailto:juan-pablo01@hotmail.com)
+
+---
